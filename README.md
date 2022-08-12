@@ -1,3 +1,3 @@
 # 01-extract
 
-Extract glbs to gltf embedded json with placeholders.
+Extract glbs to gltf embedded json.
